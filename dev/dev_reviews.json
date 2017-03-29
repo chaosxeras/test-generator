@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "client_id": "client@client.com",
+    "lawyer_id": "lawyer@lawyer.com",
+    "quote_id": "Q-BMA111-332",
+    "approved_at": "now",
+    "reviewed_by": "gqm@gqm.com",
+    "satisfied": true,
+    "comment": "He's a nice guy"
+  },
+  {
+    "id": 2,
+    "client_id": "client@client.com",
+    "lawyer_id": "lawyer2@lawyer2.com",
+    "quote_id": "Q-SPA433-555",
+    "approved_at": "now",
+    "reviewed_by": "gqm@gqm.com",
+    "satisfied": false,
+    "comment": "He did not finish his job."
+  },
+  {
+    "id": 3,
+    "client_id": "client@client.com",
+    "lawyer_id": "lawyer3@lawyer3.com",
+    "quote_id": "Q-BMA111-033",
+    "approved_at": null,
+    "satisfied": false,
+    "comment": "He kept eating potato"
+  },
+  {
+    "id": 4,
+    "client_id": "client2@client.com",
+    "lawyer_id": "lawyer2@lawyer2.com",
+    "quote_id": "Q-HEA982-102",
+    "approved_at": null,
+    "satisfied": false,
+    "comment": "He keeps playing his phone."
+  },
+  {
+    "id": 5,
+    "client_id": "client2@client.com",
+    "lawyer_id": "lawyer3@lawyer3.com",
+    "quote_id": "Q-HEA982-104",
+    "approved_at": null,
+    "satisfied": false,
+    "comment": "He keeps playing his phone."
+  },
+  {
+    "id": 6,
+    "client_id": "client2@client.com",
+    "lawyer_id": "lawyer@lawyer.com",
+    "quote_id": "Q-VEN150-105",
+    "approved_at": null,
+    "satisfied": true,
+    "comment": "He is handsome sia"
+  },
+  {
+    "id": 7,
+    "client_id": "client2@client.com",
+    "lawyer_id": "lawyer2@lawyer2.com",
+    "quote_id": "Q-VEN150-106",
+    "approved_at": "now",
+    "reviewed_by": "gqm@gqm.com",
+    "satisfied": false,
+    "comment": "He is too flirty"
+  }
+]

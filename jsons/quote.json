@@ -1,0 +1,4645 @@
+{
+    "quotes": [
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "Q-BMA111-332",
+            "viewed_by_client_at": "yesterday",
+            "approved_at": "today",
+            "lawyer_id": "lawyer@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "BMA111",
+            "reviewed_by": "gqm@gqm.com",
+            "client_id": "client@client.com",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "0JE0FT-132",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_JEL9XN@client.com",
+            "lawyer_id": "lawyer_SDVMD5@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "0JE0FT",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "0JE0FT-132",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_JEL9XN@client.com",
+            "lawyer_id": "lawyer_170CZU@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "0JE0FT",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "0JE0FT-132",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_JEL9XN@client.com",
+            "lawyer_id": "lawyer_TU2DVM@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "0JE0FT",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "453EGN-977",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_GW83OB@client.com",
+            "lawyer_id": "lawyer_HIDHQ1@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "453EGN",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "453EGN-977",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_GW83OB@client.com",
+            "lawyer_id": "lawyer_QK8G14@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "453EGN",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "453EGN-977",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_GW83OB@client.com",
+            "lawyer_id": "lawyer_5V6U7J@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "453EGN",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "F2ZGRX-899",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_0LI1F5@client.com",
+            "lawyer_id": "lawyer_8HXCWX@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "F2ZGRX",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "F2ZGRX-899",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_0LI1F5@client.com",
+            "lawyer_id": "lawyer_AGH58T@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "F2ZGRX",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "F2ZGRX-899",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_0LI1F5@client.com",
+            "lawyer_id": "lawyer_AYOCZT@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "F2ZGRX",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "89Y22M-49",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_MNIEXQ@client.com",
+            "lawyer_id": "lawyer_BA1ACD@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "89Y22M",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "89Y22M-49",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_MNIEXQ@client.com",
+            "lawyer_id": "lawyer_AU3RGI@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "89Y22M",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "89Y22M-49",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_MNIEXQ@client.com",
+            "lawyer_id": "lawyer_SU1U3F@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "89Y22M",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "84LOBB-558",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_ZMN4DU@client.com",
+            "lawyer_id": "lawyer_XX7LM3@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "84LOBB",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "84LOBB-558",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_ZMN4DU@client.com",
+            "lawyer_id": "lawyer_9MQWIF@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "84LOBB",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "84LOBB-558",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_ZMN4DU@client.com",
+            "lawyer_id": "lawyer_BX8IZA@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "84LOBB",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "UUMF8Y-754",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_MRBD7S@client.com",
+            "lawyer_id": "lawyer_5QFJNA@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "UUMF8Y",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "UUMF8Y-754",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_MRBD7S@client.com",
+            "lawyer_id": "lawyer_54HE2X@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "UUMF8Y",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "UUMF8Y-754",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_MRBD7S@client.com",
+            "lawyer_id": "lawyer_WBJ9YU@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "UUMF8Y",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "3FF05N-760",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_KV9ZMJ@client.com",
+            "lawyer_id": "lawyer_6APKJD@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "3FF05N",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "3FF05N-760",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_KV9ZMJ@client.com",
+            "lawyer_id": "lawyer_PGATSM@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "3FF05N",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "3FF05N-760",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_KV9ZMJ@client.com",
+            "lawyer_id": "lawyer_MGSZ3Y@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "3FF05N",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "AO12HP-853",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_36SDQI@client.com",
+            "lawyer_id": "lawyer_GY7HUV@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "AO12HP",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "AO12HP-853",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_36SDQI@client.com",
+            "lawyer_id": "lawyer_NRZVJ1@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "AO12HP",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "AO12HP-853",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_36SDQI@client.com",
+            "lawyer_id": "lawyer_04VZRG@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "AO12HP",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "WJAT1I-310",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_5X21UX@client.com",
+            "lawyer_id": "lawyer_5TKAXN@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "WJAT1I",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "WJAT1I-310",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_5X21UX@client.com",
+            "lawyer_id": "lawyer_3TAZXC@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "WJAT1I",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "WJAT1I-310",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_5X21UX@client.com",
+            "lawyer_id": "lawyer_JYSF13@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "WJAT1I",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "6K72ME-417",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_CW5VMU@client.com",
+            "lawyer_id": "lawyer_G8WSQ7@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "6K72ME",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "6K72ME-417",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_CW5VMU@client.com",
+            "lawyer_id": "lawyer_VG8PAB@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "6K72ME",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "6K72ME-417",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_CW5VMU@client.com",
+            "lawyer_id": "lawyer_5WAQQJ@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "6K72ME",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "0WX49H-348",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_ORTBPZ@client.com",
+            "lawyer_id": "lawyer_BQE7IS@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "0WX49H",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "0WX49H-348",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_ORTBPZ@client.com",
+            "lawyer_id": "lawyer_7SC1QH@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "0WX49H",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "0WX49H-348",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_ORTBPZ@client.com",
+            "lawyer_id": "lawyer_MUIHSX@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "0WX49H",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "ZBFSE5-201",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_B4A4C9@client.com",
+            "lawyer_id": "lawyer_QNQZUJ@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "ZBFSE5",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "ZBFSE5-201",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_B4A4C9@client.com",
+            "lawyer_id": "lawyer_XLJH6F@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "ZBFSE5",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "ZBFSE5-201",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_B4A4C9@client.com",
+            "lawyer_id": "lawyer_NKZ7PU@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "ZBFSE5",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "EBMTY5-899",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_OEKPMM@client.com",
+            "lawyer_id": "lawyer_ZZB61W@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "EBMTY5",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "EBMTY5-899",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_OEKPMM@client.com",
+            "lawyer_id": "lawyer_CXXUU0@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "EBMTY5",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "EBMTY5-899",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_OEKPMM@client.com",
+            "lawyer_id": "lawyer_KF7S7X@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "EBMTY5",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "TMPDKW-798",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_3HE4MX@client.com",
+            "lawyer_id": "lawyer_88MAXL@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "TMPDKW",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "TMPDKW-798",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_3HE4MX@client.com",
+            "lawyer_id": "lawyer_SA147I@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "TMPDKW",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "TMPDKW-798",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_3HE4MX@client.com",
+            "lawyer_id": "lawyer_8EBI6E@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "TMPDKW",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "LZ5NX0-822",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_VHOGRS@client.com",
+            "lawyer_id": "lawyer_ZXJWRM@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "LZ5NX0",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "LZ5NX0-822",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_VHOGRS@client.com",
+            "lawyer_id": "lawyer_7A0Z5Z@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "LZ5NX0",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "LZ5NX0-822",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_VHOGRS@client.com",
+            "lawyer_id": "lawyer_TYRCY6@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "LZ5NX0",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "MFCLHQ-802",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_U4P21D@client.com",
+            "lawyer_id": "lawyer_FNQ28P@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "MFCLHQ",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "MFCLHQ-802",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_U4P21D@client.com",
+            "lawyer_id": "lawyer_CDFTKA@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "MFCLHQ",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "MFCLHQ-802",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_U4P21D@client.com",
+            "lawyer_id": "lawyer_BOPJF4@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "MFCLHQ",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "BQVR7E-775",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_PFJWWI@client.com",
+            "lawyer_id": "lawyer_QO5KRJ@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "BQVR7E",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "BQVR7E-775",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_PFJWWI@client.com",
+            "lawyer_id": "lawyer_UH4U0C@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "BQVR7E",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "BQVR7E-775",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_PFJWWI@client.com",
+            "lawyer_id": "lawyer_N8PT3F@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "BQVR7E",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "80IWCS-205",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_S9YR80@client.com",
+            "lawyer_id": "lawyer_9JLT36@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "80IWCS",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "80IWCS-205",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_S9YR80@client.com",
+            "lawyer_id": "lawyer_UNOL8U@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "80IWCS",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "80IWCS-205",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_S9YR80@client.com",
+            "lawyer_id": "lawyer_ENHBFR@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "80IWCS",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "O6RP4Q-41",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_FMDZ6K@client.com",
+            "lawyer_id": "lawyer_DLH0ZQ@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "O6RP4Q",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "O6RP4Q-41",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_FMDZ6K@client.com",
+            "lawyer_id": "lawyer_3WA8Q9@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "O6RP4Q",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "O6RP4Q-41",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_FMDZ6K@client.com",
+            "lawyer_id": "lawyer_BVBOPH@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "O6RP4Q",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "Z5V5SE-768",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_Q7SZPA@client.com",
+            "lawyer_id": "lawyer_F4ZMH0@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "Z5V5SE",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "Z5V5SE-768",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_Q7SZPA@client.com",
+            "lawyer_id": "lawyer_6VN7JI@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "Z5V5SE",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "Z5V5SE-768",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_Q7SZPA@client.com",
+            "lawyer_id": "lawyer_TRCPCT@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "Z5V5SE",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "MSD2O7-360",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_NTU81M@client.com",
+            "lawyer_id": "lawyer_N4AFZL@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "MSD2O7",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "MSD2O7-360",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_NTU81M@client.com",
+            "lawyer_id": "lawyer_LGK3WO@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "MSD2O7",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "MSD2O7-360",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_NTU81M@client.com",
+            "lawyer_id": "lawyer_9RQILL@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "MSD2O7",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "KHJUGO-22",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_TQFIAD@client.com",
+            "lawyer_id": "lawyer_Y04RJP@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "KHJUGO",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "KHJUGO-22",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_TQFIAD@client.com",
+            "lawyer_id": "lawyer_FNZEIW@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "KHJUGO",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "KHJUGO-22",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_TQFIAD@client.com",
+            "lawyer_id": "lawyer_YA4NJK@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "KHJUGO",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "M48NE1-674",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_WQED4C@client.com",
+            "lawyer_id": "lawyer_G4KW8L@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "M48NE1",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "M48NE1-674",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_WQED4C@client.com",
+            "lawyer_id": "lawyer_UXDGMT@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "M48NE1",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "M48NE1-674",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_WQED4C@client.com",
+            "lawyer_id": "lawyer_1OFRH0@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "M48NE1",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "VYKJC7-622",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_S2RY17@client.com",
+            "lawyer_id": "lawyer_CTJSYH@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "VYKJC7",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "VYKJC7-622",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_S2RY17@client.com",
+            "lawyer_id": "lawyer_6316PV@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "VYKJC7",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "VYKJC7-622",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_S2RY17@client.com",
+            "lawyer_id": "lawyer_ZRR4MU@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "VYKJC7",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "N6XHOF-79",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_04SO2L@client.com",
+            "lawyer_id": "lawyer_KNR3RH@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "N6XHOF",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "N6XHOF-79",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_04SO2L@client.com",
+            "lawyer_id": "lawyer_1FYW5U@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "N6XHOF",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "N6XHOF-79",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_04SO2L@client.com",
+            "lawyer_id": "lawyer_4U5ZA7@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "N6XHOF",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "6WLCC6-822",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_36M1CC@client.com",
+            "lawyer_id": "lawyer_WF4XG1@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "6WLCC6",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "6WLCC6-822",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_36M1CC@client.com",
+            "lawyer_id": "lawyer_CHKMV0@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "6WLCC6",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "6WLCC6-822",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_36M1CC@client.com",
+            "lawyer_id": "lawyer_82ALXA@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "6WLCC6",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "83UH76-531",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_HC7L6K@client.com",
+            "lawyer_id": "lawyer_VI1MGW@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "83UH76",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "83UH76-531",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_HC7L6K@client.com",
+            "lawyer_id": "lawyer_P0S6VM@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "83UH76",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "83UH76-531",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_HC7L6K@client.com",
+            "lawyer_id": "lawyer_30SWMA@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "83UH76",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "OXFWJ2-711",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_LVJV8V@client.com",
+            "lawyer_id": "lawyer_ABMG19@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "OXFWJ2",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "OXFWJ2-711",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_LVJV8V@client.com",
+            "lawyer_id": "lawyer_ER631T@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "OXFWJ2",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "OXFWJ2-711",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_LVJV8V@client.com",
+            "lawyer_id": "lawyer_ISP4OA@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "OXFWJ2",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "VPO709-415",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_XDQPF1@client.com",
+            "lawyer_id": "lawyer_VARV9I@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "VPO709",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "VPO709-415",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_XDQPF1@client.com",
+            "lawyer_id": "lawyer_C5CFPS@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "VPO709",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "VPO709-415",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_XDQPF1@client.com",
+            "lawyer_id": "lawyer_S617JX@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "VPO709",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "340ELW-372",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_AAFV0Q@client.com",
+            "lawyer_id": "lawyer_UX1778@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "340ELW",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "340ELW-372",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_AAFV0Q@client.com",
+            "lawyer_id": "lawyer_75S2BC@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "340ELW",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        },
+        {
+            "fees": {
+                "consultation": 0,
+                "legal_fees": {
+                    "breakdown": [
+                        {
+                            "value": {
+                                "from": 150000,
+                                "to": 250000
+                            },
+                            "name": "Milestone 1"
+                        },
+                        {
+                            "value": 100000,
+                            "name": "Milestone 2"
+                        }
+                    ],
+                    "total": {
+                        "from": 250000,
+                        "to": 350000
+                    }
+                },
+                "total": {
+                    "from": 300000,
+                    "to": 400000
+                },
+                "disbursements": {
+                    "breakdown": [
+                        {
+                            "value": 15000,
+                            "name": "Item 1"
+                        },
+                        {
+                            "value": 35000,
+                            "name": "Item 2"
+                        }
+                    ],
+                    "total": 50000
+                },
+                "gst": 6
+            },
+            "id": "340ELW-372",
+            "viewed_by_client_at": "yesterday",
+            "client_id": "client_AAFV0Q@client.com",
+            "lawyer_id": "lawyer_QULN65@lawyer.com",
+            "upfront_payment": 100000,
+            "quote_request_id": "340ELW",
+            "reviewed_by": "gqm@gqm.com",
+            "approved_at": "today",
+            "accepted_by_client_at": "now"
+        }
+    ]
+}

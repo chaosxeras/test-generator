@@ -1,0 +1,604 @@
+{
+    "CompletedCase": [
+        {
+            "client_email": "client_JEL9XN@client.com",
+            "client_id": "3186",
+            "quote_id": "0JE0FT-132",
+            "quote_request_id": "0JE0FT",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_SDVMD5@lawyer.com",
+                    "lawyer_id": "5922"
+                },
+                {
+                    "lawyer_email": "lawyer_170CZU@lawyer.com",
+                    "lawyer_id": "3827"
+                },
+                {
+                    "lawyer_email": "lawyer_TU2DVM@lawyer.com",
+                    "lawyer_id": "8154"
+                }
+            ]
+        },
+        {
+            "client_email": "client_GW83OB@client.com",
+            "client_id": "3839",
+            "quote_id": "453EGN-977",
+            "quote_request_id": "453EGN",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_HIDHQ1@lawyer.com",
+                    "lawyer_id": "2888"
+                },
+                {
+                    "lawyer_email": "lawyer_QK8G14@lawyer.com",
+                    "lawyer_id": "2776"
+                },
+                {
+                    "lawyer_email": "lawyer_5V6U7J@lawyer.com",
+                    "lawyer_id": "3838"
+                }
+            ]
+        },
+        {
+            "client_email": "client_0LI1F5@client.com",
+            "client_id": "5128",
+            "quote_id": "F2ZGRX-899",
+            "quote_request_id": "F2ZGRX",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_8HXCWX@lawyer.com",
+                    "lawyer_id": "4023"
+                },
+                {
+                    "lawyer_email": "lawyer_AGH58T@lawyer.com",
+                    "lawyer_id": "6088"
+                },
+                {
+                    "lawyer_email": "lawyer_AYOCZT@lawyer.com",
+                    "lawyer_id": "3109"
+                }
+            ]
+        },
+        {
+            "client_email": "client_MNIEXQ@client.com",
+            "client_id": "9448",
+            "quote_id": "89Y22M-49",
+            "quote_request_id": "89Y22M",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_BA1ACD@lawyer.com",
+                    "lawyer_id": "8775"
+                },
+                {
+                    "lawyer_email": "lawyer_AU3RGI@lawyer.com",
+                    "lawyer_id": "6361"
+                },
+                {
+                    "lawyer_email": "lawyer_SU1U3F@lawyer.com",
+                    "lawyer_id": "9919"
+                }
+            ]
+        },
+        {
+            "client_email": "client_ZMN4DU@client.com",
+            "client_id": "8086",
+            "quote_id": "84LOBB-558",
+            "quote_request_id": "84LOBB",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_XX7LM3@lawyer.com",
+                    "lawyer_id": "9989"
+                },
+                {
+                    "lawyer_email": "lawyer_9MQWIF@lawyer.com",
+                    "lawyer_id": "664"
+                },
+                {
+                    "lawyer_email": "lawyer_BX8IZA@lawyer.com",
+                    "lawyer_id": "1736"
+                }
+            ]
+        },
+        {
+            "client_email": "client_MRBD7S@client.com",
+            "client_id": "3270",
+            "quote_id": "UUMF8Y-754",
+            "quote_request_id": "UUMF8Y",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_5QFJNA@lawyer.com",
+                    "lawyer_id": "5417"
+                },
+                {
+                    "lawyer_email": "lawyer_54HE2X@lawyer.com",
+                    "lawyer_id": "5210"
+                },
+                {
+                    "lawyer_email": "lawyer_WBJ9YU@lawyer.com",
+                    "lawyer_id": "5092"
+                }
+            ]
+        },
+        {
+            "client_email": "client_KV9ZMJ@client.com",
+            "client_id": "7064",
+            "quote_id": "3FF05N-760",
+            "quote_request_id": "3FF05N",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_6APKJD@lawyer.com",
+                    "lawyer_id": "907"
+                },
+                {
+                    "lawyer_email": "lawyer_PGATSM@lawyer.com",
+                    "lawyer_id": "4294"
+                },
+                {
+                    "lawyer_email": "lawyer_MGSZ3Y@lawyer.com",
+                    "lawyer_id": "8954"
+                }
+            ]
+        },
+        {
+            "client_email": "client_36SDQI@client.com",
+            "client_id": "6198",
+            "quote_id": "AO12HP-853",
+            "quote_request_id": "AO12HP",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_GY7HUV@lawyer.com",
+                    "lawyer_id": "2350"
+                },
+                {
+                    "lawyer_email": "lawyer_NRZVJ1@lawyer.com",
+                    "lawyer_id": "4662"
+                },
+                {
+                    "lawyer_email": "lawyer_04VZRG@lawyer.com",
+                    "lawyer_id": "2329"
+                }
+            ]
+        },
+        {
+            "client_email": "client_5X21UX@client.com",
+            "client_id": "5344",
+            "quote_id": "WJAT1I-310",
+            "quote_request_id": "WJAT1I",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_5TKAXN@lawyer.com",
+                    "lawyer_id": "3216"
+                },
+                {
+                    "lawyer_email": "lawyer_3TAZXC@lawyer.com",
+                    "lawyer_id": "6306"
+                },
+                {
+                    "lawyer_email": "lawyer_JYSF13@lawyer.com",
+                    "lawyer_id": "1579"
+                }
+            ]
+        },
+        {
+            "client_email": "client_CW5VMU@client.com",
+            "client_id": "801",
+            "quote_id": "6K72ME-417",
+            "quote_request_id": "6K72ME",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_G8WSQ7@lawyer.com",
+                    "lawyer_id": "3818"
+                },
+                {
+                    "lawyer_email": "lawyer_VG8PAB@lawyer.com",
+                    "lawyer_id": "9231"
+                },
+                {
+                    "lawyer_email": "lawyer_5WAQQJ@lawyer.com",
+                    "lawyer_id": "1787"
+                }
+            ]
+        },
+        {
+            "client_email": "client_ORTBPZ@client.com",
+            "client_id": "7522",
+            "quote_id": "0WX49H-348",
+            "quote_request_id": "0WX49H",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_BQE7IS@lawyer.com",
+                    "lawyer_id": "2217"
+                },
+                {
+                    "lawyer_email": "lawyer_7SC1QH@lawyer.com",
+                    "lawyer_id": "977"
+                },
+                {
+                    "lawyer_email": "lawyer_MUIHSX@lawyer.com",
+                    "lawyer_id": "9397"
+                }
+            ]
+        },
+        {
+            "client_email": "client_B4A4C9@client.com",
+            "client_id": "279",
+            "quote_id": "ZBFSE5-201",
+            "quote_request_id": "ZBFSE5",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_QNQZUJ@lawyer.com",
+                    "lawyer_id": "8326"
+                },
+                {
+                    "lawyer_email": "lawyer_XLJH6F@lawyer.com",
+                    "lawyer_id": "7773"
+                },
+                {
+                    "lawyer_email": "lawyer_NKZ7PU@lawyer.com",
+                    "lawyer_id": "5853"
+                }
+            ]
+        },
+        {
+            "client_email": "client_OEKPMM@client.com",
+            "client_id": "8963",
+            "quote_id": "EBMTY5-899",
+            "quote_request_id": "EBMTY5",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_ZZB61W@lawyer.com",
+                    "lawyer_id": "5281"
+                },
+                {
+                    "lawyer_email": "lawyer_CXXUU0@lawyer.com",
+                    "lawyer_id": "9439"
+                },
+                {
+                    "lawyer_email": "lawyer_KF7S7X@lawyer.com",
+                    "lawyer_id": "5764"
+                }
+            ]
+        },
+        {
+            "client_email": "client_3HE4MX@client.com",
+            "client_id": "3336",
+            "quote_id": "TMPDKW-798",
+            "quote_request_id": "TMPDKW",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_88MAXL@lawyer.com",
+                    "lawyer_id": "8320"
+                },
+                {
+                    "lawyer_email": "lawyer_SA147I@lawyer.com",
+                    "lawyer_id": "386"
+                },
+                {
+                    "lawyer_email": "lawyer_8EBI6E@lawyer.com",
+                    "lawyer_id": "2430"
+                }
+            ]
+        },
+        {
+            "client_email": "client_VHOGRS@client.com",
+            "client_id": "4320",
+            "quote_id": "LZ5NX0-822",
+            "quote_request_id": "LZ5NX0",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_ZXJWRM@lawyer.com",
+                    "lawyer_id": "7080"
+                },
+                {
+                    "lawyer_email": "lawyer_7A0Z5Z@lawyer.com",
+                    "lawyer_id": "1044"
+                },
+                {
+                    "lawyer_email": "lawyer_TYRCY6@lawyer.com",
+                    "lawyer_id": "3926"
+                }
+            ]
+        },
+        {
+            "client_email": "client_U4P21D@client.com",
+            "client_id": "9115",
+            "quote_id": "MFCLHQ-802",
+            "quote_request_id": "MFCLHQ",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_FNQ28P@lawyer.com",
+                    "lawyer_id": "4833"
+                },
+                {
+                    "lawyer_email": "lawyer_CDFTKA@lawyer.com",
+                    "lawyer_id": "6446"
+                },
+                {
+                    "lawyer_email": "lawyer_BOPJF4@lawyer.com",
+                    "lawyer_id": "1086"
+                }
+            ]
+        },
+        {
+            "client_email": "client_PFJWWI@client.com",
+            "client_id": "4003",
+            "quote_id": "BQVR7E-775",
+            "quote_request_id": "BQVR7E",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_QO5KRJ@lawyer.com",
+                    "lawyer_id": "1622"
+                },
+                {
+                    "lawyer_email": "lawyer_UH4U0C@lawyer.com",
+                    "lawyer_id": "4730"
+                },
+                {
+                    "lawyer_email": "lawyer_N8PT3F@lawyer.com",
+                    "lawyer_id": "4364"
+                }
+            ]
+        },
+        {
+            "client_email": "client_S9YR80@client.com",
+            "client_id": "6521",
+            "quote_id": "80IWCS-205",
+            "quote_request_id": "80IWCS",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_9JLT36@lawyer.com",
+                    "lawyer_id": "2301"
+                },
+                {
+                    "lawyer_email": "lawyer_UNOL8U@lawyer.com",
+                    "lawyer_id": "9335"
+                },
+                {
+                    "lawyer_email": "lawyer_ENHBFR@lawyer.com",
+                    "lawyer_id": "5591"
+                }
+            ]
+        },
+        {
+            "client_email": "client_FMDZ6K@client.com",
+            "client_id": "3832",
+            "quote_id": "O6RP4Q-41",
+            "quote_request_id": "O6RP4Q",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_DLH0ZQ@lawyer.com",
+                    "lawyer_id": "4793"
+                },
+                {
+                    "lawyer_email": "lawyer_3WA8Q9@lawyer.com",
+                    "lawyer_id": "773"
+                },
+                {
+                    "lawyer_email": "lawyer_BVBOPH@lawyer.com",
+                    "lawyer_id": "6863"
+                }
+            ]
+        },
+        {
+            "client_email": "client_Q7SZPA@client.com",
+            "client_id": "5986",
+            "quote_id": "Z5V5SE-768",
+            "quote_request_id": "Z5V5SE",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_F4ZMH0@lawyer.com",
+                    "lawyer_id": "4884"
+                },
+                {
+                    "lawyer_email": "lawyer_6VN7JI@lawyer.com",
+                    "lawyer_id": "2774"
+                },
+                {
+                    "lawyer_email": "lawyer_TRCPCT@lawyer.com",
+                    "lawyer_id": "4535"
+                }
+            ]
+        },
+        {
+            "client_email": "client_NTU81M@client.com",
+            "client_id": "8998",
+            "quote_id": "MSD2O7-360",
+            "quote_request_id": "MSD2O7",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_N4AFZL@lawyer.com",
+                    "lawyer_id": "7727"
+                },
+                {
+                    "lawyer_email": "lawyer_LGK3WO@lawyer.com",
+                    "lawyer_id": "7056"
+                },
+                {
+                    "lawyer_email": "lawyer_9RQILL@lawyer.com",
+                    "lawyer_id": "8264"
+                }
+            ]
+        },
+        {
+            "client_email": "client_TQFIAD@client.com",
+            "client_id": "6838",
+            "quote_id": "KHJUGO-22",
+            "quote_request_id": "KHJUGO",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_Y04RJP@lawyer.com",
+                    "lawyer_id": "5002"
+                },
+                {
+                    "lawyer_email": "lawyer_FNZEIW@lawyer.com",
+                    "lawyer_id": "4368"
+                },
+                {
+                    "lawyer_email": "lawyer_YA4NJK@lawyer.com",
+                    "lawyer_id": "3668"
+                }
+            ]
+        },
+        {
+            "client_email": "client_WQED4C@client.com",
+            "client_id": "4932",
+            "quote_id": "M48NE1-674",
+            "quote_request_id": "M48NE1",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_G4KW8L@lawyer.com",
+                    "lawyer_id": "3212"
+                },
+                {
+                    "lawyer_email": "lawyer_UXDGMT@lawyer.com",
+                    "lawyer_id": "857"
+                },
+                {
+                    "lawyer_email": "lawyer_1OFRH0@lawyer.com",
+                    "lawyer_id": "5009"
+                }
+            ]
+        },
+        {
+            "client_email": "client_S2RY17@client.com",
+            "client_id": "1516",
+            "quote_id": "VYKJC7-622",
+            "quote_request_id": "VYKJC7",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_CTJSYH@lawyer.com",
+                    "lawyer_id": "3711"
+                },
+                {
+                    "lawyer_email": "lawyer_6316PV@lawyer.com",
+                    "lawyer_id": "895"
+                },
+                {
+                    "lawyer_email": "lawyer_ZRR4MU@lawyer.com",
+                    "lawyer_id": "9815"
+                }
+            ]
+        },
+        {
+            "client_email": "client_04SO2L@client.com",
+            "client_id": "3298",
+            "quote_id": "N6XHOF-79",
+            "quote_request_id": "N6XHOF",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_KNR3RH@lawyer.com",
+                    "lawyer_id": "7507"
+                },
+                {
+                    "lawyer_email": "lawyer_1FYW5U@lawyer.com",
+                    "lawyer_id": "5177"
+                },
+                {
+                    "lawyer_email": "lawyer_4U5ZA7@lawyer.com",
+                    "lawyer_id": "6207"
+                }
+            ]
+        },
+        {
+            "client_email": "client_36M1CC@client.com",
+            "client_id": "7104",
+            "quote_id": "6WLCC6-822",
+            "quote_request_id": "6WLCC6",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_WF4XG1@lawyer.com",
+                    "lawyer_id": "2935"
+                },
+                {
+                    "lawyer_email": "lawyer_CHKMV0@lawyer.com",
+                    "lawyer_id": "8034"
+                },
+                {
+                    "lawyer_email": "lawyer_82ALXA@lawyer.com",
+                    "lawyer_id": "9814"
+                }
+            ]
+        },
+        {
+            "client_email": "client_HC7L6K@client.com",
+            "client_id": "1301",
+            "quote_id": "83UH76-531",
+            "quote_request_id": "83UH76",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_VI1MGW@lawyer.com",
+                    "lawyer_id": "9671"
+                },
+                {
+                    "lawyer_email": "lawyer_P0S6VM@lawyer.com",
+                    "lawyer_id": "9358"
+                },
+                {
+                    "lawyer_email": "lawyer_30SWMA@lawyer.com",
+                    "lawyer_id": "4029"
+                }
+            ]
+        },
+        {
+            "client_email": "client_LVJV8V@client.com",
+            "client_id": "6848",
+            "quote_id": "OXFWJ2-711",
+            "quote_request_id": "OXFWJ2",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_ABMG19@lawyer.com",
+                    "lawyer_id": "9973"
+                },
+                {
+                    "lawyer_email": "lawyer_ER631T@lawyer.com",
+                    "lawyer_id": "7045"
+                },
+                {
+                    "lawyer_email": "lawyer_ISP4OA@lawyer.com",
+                    "lawyer_id": "514"
+                }
+            ]
+        },
+        {
+            "client_email": "client_XDQPF1@client.com",
+            "client_id": "3171",
+            "quote_id": "VPO709-415",
+            "quote_request_id": "VPO709",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_VARV9I@lawyer.com",
+                    "lawyer_id": "3565"
+                },
+                {
+                    "lawyer_email": "lawyer_C5CFPS@lawyer.com",
+                    "lawyer_id": "9338"
+                },
+                {
+                    "lawyer_email": "lawyer_S617JX@lawyer.com",
+                    "lawyer_id": "8631"
+                }
+            ]
+        },
+        {
+            "client_email": "client_AAFV0Q@client.com",
+            "client_id": "9731",
+            "quote_id": "340ELW-372",
+            "quote_request_id": "340ELW",
+            "lawyers": [
+                {
+                    "lawyer_email": "lawyer_UX1778@lawyer.com",
+                    "lawyer_id": "4375"
+                },
+                {
+                    "lawyer_email": "lawyer_75S2BC@lawyer.com",
+                    "lawyer_id": "9178"
+                },
+                {
+                    "lawyer_email": "lawyer_QULN65@lawyer.com",
+                    "lawyer_id": "8583"
+                }
+            ]
+        }
+    ]
+}

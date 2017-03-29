@@ -1,0 +1,200 @@
+[
+  {
+    "id": "SSP4431",
+    "answers": {
+      "What is the nature of your business?": {
+        "order": 0,
+        "answer": "Making nice stuff"
+      },
+      "How many owners will this company have?": {
+        "order": 1,
+        "answer": 2
+      },
+      "Which of the below will be used to fund the business?": {
+        "order": 0,
+        "answer": "Own money"
+      }
+    },
+    "client_id": "client@client.com",
+    "category_id": "draft_service_agreement",
+    "approved_at": null,
+    "reviewed_by": null,
+    "lat": 22.1133,
+    "lng": 22.1133,
+    "address": "Some street in the deserts"
+  },
+  {
+    "id": "BMA111",
+    "answers": {
+      "What's the time again?": {
+        "order": 0,
+        "answer": "Maybe 7 am or something"
+      },
+      "Why there is no such thing as mouse-flavoured cat food?": {
+        "order": 1,
+        "answer": "Man, come on, it's because mouse tastes like crap"
+      },
+      "Why does Giant always play that Hallelujah song?": {
+        "order": 2,
+        "answer": "Cause it sticks to your head and you'll end up singing that in your head whenever you're buying milk somewhere... It's annoying though. I'm listening to it now."
+      }
+    },
+    "client_id": "client@client.com",
+    "category_id": "bankruptcy",
+    "approved_at": "today",
+    "reviewed_by": "gqm@gqm.com",
+    "lawyers": [
+      "lawyer@lawyer.com",
+      "lawyer2@lawyer2.com",
+      "lawyer3@lawyer3.com"
+    ],
+    "lat": 80.1133,
+    "lng": 80.1133,
+    "address": "Some street in the deserts"
+  },
+  {
+    "id": "SPA433",
+    "answers": {
+      "What's the time again?": {
+        "order": 0,
+        "answer": "Maybe 7 am or something"
+      },
+      "Why there is no such thing as mouse-flavoured cat food?": {
+        "order": 2,
+        "answer": "Man, come on, it's because mouse tastes like crap"
+      },
+      "Why does Giant always play that Hallelujah song?": {
+        "order": 1,
+        "answer": "Cause it sticks to your head and you'll end up singing that in your head whenever you're buying milk somewhere... It's annoying though. I'm listening to it now."
+      }
+    },
+    "client_id": "client@client.com",
+    "category_id": "dispute_between_parties",
+    "approved_at": "today",
+    "reviewed_by": "gqm@gqm.com",
+    "lawyers": [
+      "lawyer@lawyer.com",
+      "lawyer2@lawyer2.com",
+      "lawyer3@lawyer3.com"
+    ],
+    "lat": 80.1133,
+    "lng": 80.1133,
+    "address": "Some street in the deserts"
+  },
+  {
+    "id": "HEA982",
+    "answers": {
+      "What's the time again?": {
+        "order": 0,
+        "answer": "summer time"
+      },
+      "Coffee or tea? justify your answer": {
+        "order": 2,
+        "answer": "Tea. Tea is al naturale. Tho it may contain caffeine, it's aight. I wanna live as long as the Japanese"
+      },
+      "What do you think of the Nintendo Switch?": {
+        "order": 1,
+        "answer": "MEH. Processing power is aight. But they got their own OS, usage of memory is efficient."
+      }
+    },
+    "client_id": "client2@client.com",
+    "category_id": "writing_will",
+    "approved_at": "today",
+    "reviewed_by": "gqm@gqm.com",
+    "lawyers": [
+      "lawyer@lawyer.com",
+      "lawyer2@lawyer2.com",
+      "lawyer3@lawyer3.com"
+    ],
+    "lat": 80.1133,
+    "lng": 80.1133,
+    "address": "VSQ@PJ"
+  },
+  {
+    "id": "VEN150",
+    "answers": {
+      "What's the time again?": {
+        "order": 0,
+        "answer": "Time for a coffee break"
+      },
+      "Coffee or tea? justify your answer": {
+        "order": 2,
+        "answer": "Tealive = Tea Live? Te Alive? Teal ive? Te A Live?"
+      },
+      "What do you think of the Nintendo Switch?": {
+        "order": 1,
+        "answer": "Webkit hacked available lol. Scrub security."
+      }
+    },
+    "client_id": "client2@client.com",
+    "category_id": "writing_will",
+    "approved_at": "today",
+    "reviewed_by": "gqm@gqm.com",
+    "lawyers": [
+      "lawyer@lawyer.com",
+      "lawyer2@lawyer2.com",
+      "lawyer3@lawyer3.com"
+    ],
+    "lat": 80.1133,
+    "lng": 80.1133,
+    "address": "VSQ@PJ"
+  },
+  {
+    "id": "AND825",
+    "answers": {
+      "What's the time again?": {
+        "order": 0,
+        "answer": "Time for food"
+      },
+      "Coffee or tea? justify your answer": {
+        "order": 2,
+        "answer": "smooth coffee everyday man. It goes down easily, tastes like heaven and doesn't irritate my stomach."
+      },
+      "What do you think of the Nintendo Switch?": {
+        "order": 1,
+        "answer": "People buy it to play Breath of the Wild. OPEN WORLD YO"
+      }
+    },
+    "client_id": "client2@client.com",
+    "category_id": "writing_will",
+    "approved_at": "-1 week",
+    "reviewed_by": "gqm@gqm.com",
+    "lawyers": [
+      "lawyer@lawyer.com",
+      "lawyer2@lawyer2.com",
+      "lawyer3@lawyer3.com"
+    ],
+    "lat": 80.1133,
+    "lng": 80.1133,
+    "address": "VSQ@PJ"
+  },
+  {
+    "id": "ETH392",
+    "answers": {
+      "What's the time again?": {
+        "order": 0,
+        "answer": "summer time"
+      },
+      "Coffee or tea? justify your answer": {
+        "order": 2,
+        "answer": "smooth coffee everyday man. It goes down easily, tastes like heaven and doesn't irritate my stomach."
+      },
+      "What do you think of the Nintendo Switch?": {
+        "order": 1,
+        "answer": "People buy it to play Breath of the Wild. OPEN WORLD YO"
+      }
+    },
+    "client_id": "client2@client.com",
+    "category_id": "bankruptcy",
+    "approved_at": "yesterday",
+    "reviewed_by": "gqm@gqm.com",
+    "lawyers": [
+      "lawyer@lawyer.com",
+      "lawyer2@lawyer2.com",
+      "lawyer3@lawyer3.com"
+    ],
+    "lat": 80.1133,
+    "lng": 80.1133,
+    "address": "VSQ@PJ"
+  }
+]

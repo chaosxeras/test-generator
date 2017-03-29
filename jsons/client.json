@@ -1,0 +1,252 @@
+{
+    "clients": [
+        {
+            "password": "julius",
+            "id": 3948,
+            "approved_at": "now",
+            "email": "client2@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "phone_number": "+60123456789"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3186,
+            "approved_at": "now",
+            "email": "client_JEL9XN@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3839,
+            "approved_at": "now",
+            "email": "client_GW83OB@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5128,
+            "approved_at": "now",
+            "email": "client_0LI1F5@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9448,
+            "approved_at": "now",
+            "email": "client_MNIEXQ@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8086,
+            "approved_at": "now",
+            "email": "client_ZMN4DU@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3270,
+            "approved_at": "now",
+            "email": "client_MRBD7S@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7064,
+            "approved_at": "now",
+            "email": "client_KV9ZMJ@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6198,
+            "approved_at": "now",
+            "email": "client_36SDQI@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5344,
+            "approved_at": "now",
+            "email": "client_5X21UX@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 801,
+            "approved_at": "now",
+            "email": "client_CW5VMU@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7522,
+            "approved_at": "now",
+            "email": "client_ORTBPZ@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 279,
+            "approved_at": "now",
+            "email": "client_B4A4C9@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8963,
+            "approved_at": "now",
+            "email": "client_OEKPMM@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3336,
+            "approved_at": "now",
+            "email": "client_3HE4MX@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4320,
+            "approved_at": "now",
+            "email": "client_VHOGRS@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9115,
+            "approved_at": "now",
+            "email": "client_U4P21D@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4003,
+            "approved_at": "now",
+            "email": "client_PFJWWI@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6521,
+            "approved_at": "now",
+            "email": "client_S9YR80@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3832,
+            "approved_at": "now",
+            "email": "client_FMDZ6K@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5986,
+            "approved_at": "now",
+            "email": "client_Q7SZPA@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8998,
+            "approved_at": "now",
+            "email": "client_NTU81M@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6838,
+            "approved_at": "now",
+            "email": "client_TQFIAD@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4932,
+            "approved_at": "now",
+            "email": "client_WQED4C@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1516,
+            "approved_at": "now",
+            "email": "client_S2RY17@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3298,
+            "approved_at": "now",
+            "email": "client_04SO2L@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7104,
+            "approved_at": "now",
+            "email": "client_36M1CC@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1301,
+            "approved_at": "now",
+            "email": "client_HC7L6K@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6848,
+            "approved_at": "now",
+            "email": "client_LVJV8V@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3171,
+            "approved_at": "now",
+            "email": "client_XDQPF1@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9731,
+            "approved_at": "now",
+            "email": "client_AAFV0Q@client.com",
+            "role": "\\Canlaw\\User\\Role::CLIENT",
+            "password": "client"
+        }
+    ]
+}

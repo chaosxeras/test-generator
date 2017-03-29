@@ -1,0 +1,1369 @@
+{
+    "booking_requests": [
+        {
+            "quote_id": "Q-BMA111-332",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer@lawyer.com",
+            "confirmed_at": "today",
+            "client_id": "client@client.com"
+        },
+        {
+            "quote_id": "0JE0FT-132",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_SDVMD5@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_JEL9XN@client.com"
+        },
+        {
+            "quote_id": "0JE0FT-132",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_170CZU@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_JEL9XN@client.com"
+        },
+        {
+            "quote_id": "0JE0FT-132",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_TU2DVM@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_JEL9XN@client.com"
+        },
+        {
+            "quote_id": "453EGN-977",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_HIDHQ1@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_GW83OB@client.com"
+        },
+        {
+            "quote_id": "453EGN-977",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_QK8G14@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_GW83OB@client.com"
+        },
+        {
+            "quote_id": "453EGN-977",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_5V6U7J@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_GW83OB@client.com"
+        },
+        {
+            "quote_id": "F2ZGRX-899",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_8HXCWX@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_0LI1F5@client.com"
+        },
+        {
+            "quote_id": "F2ZGRX-899",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_AGH58T@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_0LI1F5@client.com"
+        },
+        {
+            "quote_id": "F2ZGRX-899",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_AYOCZT@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_0LI1F5@client.com"
+        },
+        {
+            "quote_id": "89Y22M-49",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_BA1ACD@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_MNIEXQ@client.com"
+        },
+        {
+            "quote_id": "89Y22M-49",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_AU3RGI@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_MNIEXQ@client.com"
+        },
+        {
+            "quote_id": "89Y22M-49",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_SU1U3F@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_MNIEXQ@client.com"
+        },
+        {
+            "quote_id": "84LOBB-558",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_XX7LM3@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_ZMN4DU@client.com"
+        },
+        {
+            "quote_id": "84LOBB-558",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_9MQWIF@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_ZMN4DU@client.com"
+        },
+        {
+            "quote_id": "84LOBB-558",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_BX8IZA@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_ZMN4DU@client.com"
+        },
+        {
+            "quote_id": "UUMF8Y-754",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_5QFJNA@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_MRBD7S@client.com"
+        },
+        {
+            "quote_id": "UUMF8Y-754",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_54HE2X@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_MRBD7S@client.com"
+        },
+        {
+            "quote_id": "UUMF8Y-754",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_WBJ9YU@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_MRBD7S@client.com"
+        },
+        {
+            "quote_id": "3FF05N-760",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_6APKJD@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_KV9ZMJ@client.com"
+        },
+        {
+            "quote_id": "3FF05N-760",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_PGATSM@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_KV9ZMJ@client.com"
+        },
+        {
+            "quote_id": "3FF05N-760",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_MGSZ3Y@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_KV9ZMJ@client.com"
+        },
+        {
+            "quote_id": "AO12HP-853",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_GY7HUV@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_36SDQI@client.com"
+        },
+        {
+            "quote_id": "AO12HP-853",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_NRZVJ1@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_36SDQI@client.com"
+        },
+        {
+            "quote_id": "AO12HP-853",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_04VZRG@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_36SDQI@client.com"
+        },
+        {
+            "quote_id": "WJAT1I-310",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_5TKAXN@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_5X21UX@client.com"
+        },
+        {
+            "quote_id": "WJAT1I-310",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_3TAZXC@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_5X21UX@client.com"
+        },
+        {
+            "quote_id": "WJAT1I-310",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_JYSF13@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_5X21UX@client.com"
+        },
+        {
+            "quote_id": "6K72ME-417",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_G8WSQ7@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_CW5VMU@client.com"
+        },
+        {
+            "quote_id": "6K72ME-417",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_VG8PAB@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_CW5VMU@client.com"
+        },
+        {
+            "quote_id": "6K72ME-417",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_5WAQQJ@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_CW5VMU@client.com"
+        },
+        {
+            "quote_id": "0WX49H-348",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_BQE7IS@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_ORTBPZ@client.com"
+        },
+        {
+            "quote_id": "0WX49H-348",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_7SC1QH@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_ORTBPZ@client.com"
+        },
+        {
+            "quote_id": "0WX49H-348",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_MUIHSX@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_ORTBPZ@client.com"
+        },
+        {
+            "quote_id": "ZBFSE5-201",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_QNQZUJ@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_B4A4C9@client.com"
+        },
+        {
+            "quote_id": "ZBFSE5-201",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_XLJH6F@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_B4A4C9@client.com"
+        },
+        {
+            "quote_id": "ZBFSE5-201",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_NKZ7PU@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_B4A4C9@client.com"
+        },
+        {
+            "quote_id": "EBMTY5-899",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ZZB61W@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_OEKPMM@client.com"
+        },
+        {
+            "quote_id": "EBMTY5-899",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_CXXUU0@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_OEKPMM@client.com"
+        },
+        {
+            "quote_id": "EBMTY5-899",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_KF7S7X@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_OEKPMM@client.com"
+        },
+        {
+            "quote_id": "TMPDKW-798",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_88MAXL@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_3HE4MX@client.com"
+        },
+        {
+            "quote_id": "TMPDKW-798",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_SA147I@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_3HE4MX@client.com"
+        },
+        {
+            "quote_id": "TMPDKW-798",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_8EBI6E@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_3HE4MX@client.com"
+        },
+        {
+            "quote_id": "LZ5NX0-822",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ZXJWRM@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_VHOGRS@client.com"
+        },
+        {
+            "quote_id": "LZ5NX0-822",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_7A0Z5Z@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_VHOGRS@client.com"
+        },
+        {
+            "quote_id": "LZ5NX0-822",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_TYRCY6@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_VHOGRS@client.com"
+        },
+        {
+            "quote_id": "MFCLHQ-802",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_FNQ28P@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_U4P21D@client.com"
+        },
+        {
+            "quote_id": "MFCLHQ-802",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_CDFTKA@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_U4P21D@client.com"
+        },
+        {
+            "quote_id": "MFCLHQ-802",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_BOPJF4@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_U4P21D@client.com"
+        },
+        {
+            "quote_id": "BQVR7E-775",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_QO5KRJ@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_PFJWWI@client.com"
+        },
+        {
+            "quote_id": "BQVR7E-775",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_UH4U0C@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_PFJWWI@client.com"
+        },
+        {
+            "quote_id": "BQVR7E-775",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_N8PT3F@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_PFJWWI@client.com"
+        },
+        {
+            "quote_id": "80IWCS-205",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_9JLT36@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_S9YR80@client.com"
+        },
+        {
+            "quote_id": "80IWCS-205",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_UNOL8U@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_S9YR80@client.com"
+        },
+        {
+            "quote_id": "80IWCS-205",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ENHBFR@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_S9YR80@client.com"
+        },
+        {
+            "quote_id": "O6RP4Q-41",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_DLH0ZQ@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_FMDZ6K@client.com"
+        },
+        {
+            "quote_id": "O6RP4Q-41",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_3WA8Q9@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_FMDZ6K@client.com"
+        },
+        {
+            "quote_id": "O6RP4Q-41",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_BVBOPH@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_FMDZ6K@client.com"
+        },
+        {
+            "quote_id": "Z5V5SE-768",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_F4ZMH0@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_Q7SZPA@client.com"
+        },
+        {
+            "quote_id": "Z5V5SE-768",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_6VN7JI@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_Q7SZPA@client.com"
+        },
+        {
+            "quote_id": "Z5V5SE-768",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_TRCPCT@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_Q7SZPA@client.com"
+        },
+        {
+            "quote_id": "MSD2O7-360",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_N4AFZL@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_NTU81M@client.com"
+        },
+        {
+            "quote_id": "MSD2O7-360",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_LGK3WO@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_NTU81M@client.com"
+        },
+        {
+            "quote_id": "MSD2O7-360",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_9RQILL@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_NTU81M@client.com"
+        },
+        {
+            "quote_id": "KHJUGO-22",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_Y04RJP@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_TQFIAD@client.com"
+        },
+        {
+            "quote_id": "KHJUGO-22",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_FNZEIW@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_TQFIAD@client.com"
+        },
+        {
+            "quote_id": "KHJUGO-22",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_YA4NJK@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_TQFIAD@client.com"
+        },
+        {
+            "quote_id": "M48NE1-674",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_G4KW8L@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_WQED4C@client.com"
+        },
+        {
+            "quote_id": "M48NE1-674",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_UXDGMT@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_WQED4C@client.com"
+        },
+        {
+            "quote_id": "M48NE1-674",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_1OFRH0@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_WQED4C@client.com"
+        },
+        {
+            "quote_id": "VYKJC7-622",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_CTJSYH@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_S2RY17@client.com"
+        },
+        {
+            "quote_id": "VYKJC7-622",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_6316PV@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_S2RY17@client.com"
+        },
+        {
+            "quote_id": "VYKJC7-622",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ZRR4MU@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_S2RY17@client.com"
+        },
+        {
+            "quote_id": "N6XHOF-79",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_KNR3RH@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_04SO2L@client.com"
+        },
+        {
+            "quote_id": "N6XHOF-79",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_1FYW5U@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_04SO2L@client.com"
+        },
+        {
+            "quote_id": "N6XHOF-79",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_4U5ZA7@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_04SO2L@client.com"
+        },
+        {
+            "quote_id": "6WLCC6-822",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_WF4XG1@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_36M1CC@client.com"
+        },
+        {
+            "quote_id": "6WLCC6-822",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_CHKMV0@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_36M1CC@client.com"
+        },
+        {
+            "quote_id": "6WLCC6-822",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_82ALXA@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_36M1CC@client.com"
+        },
+        {
+            "quote_id": "83UH76-531",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_VI1MGW@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_HC7L6K@client.com"
+        },
+        {
+            "quote_id": "83UH76-531",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_P0S6VM@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_HC7L6K@client.com"
+        },
+        {
+            "quote_id": "83UH76-531",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_30SWMA@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_HC7L6K@client.com"
+        },
+        {
+            "quote_id": "OXFWJ2-711",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ABMG19@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_LVJV8V@client.com"
+        },
+        {
+            "quote_id": "OXFWJ2-711",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ER631T@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_LVJV8V@client.com"
+        },
+        {
+            "quote_id": "OXFWJ2-711",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_ISP4OA@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_LVJV8V@client.com"
+        },
+        {
+            "quote_id": "VPO709-415",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_VARV9I@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_XDQPF1@client.com"
+        },
+        {
+            "quote_id": "VPO709-415",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_C5CFPS@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_XDQPF1@client.com"
+        },
+        {
+            "quote_id": "VPO709-415",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_S617JX@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_XDQPF1@client.com"
+        },
+        {
+            "quote_id": "340ELW-372",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_UX1778@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_AAFV0Q@client.com"
+        },
+        {
+            "quote_id": "340ELW-372",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_75S2BC@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_AAFV0Q@client.com"
+        },
+        {
+            "quote_id": "340ELW-372",
+            "time_slot": {
+                "end": "+1 week 2 days 1 hour",
+                "start": "+1 week 2 days"
+            },
+            "address": {
+                "lat": 22.1133,
+                "lng": 22.1133,
+                "address": "Some street in the deserts"
+            },
+            "lawyer_id": "lawyer_QULN65@lawyer.com",
+            "confirmed_at": "null",
+            "client_id": "client_AAFV0Q@client.com"
+        }
+    ]
+}

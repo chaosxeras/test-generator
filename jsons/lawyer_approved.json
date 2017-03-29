@@ -1,0 +1,2734 @@
+{
+    "lawyers": [
+        {
+            "password": "lawyer3",
+            "id": 4111,
+            "profile": {
+                "satisfaction_rate": 22,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "started_practicing_in": 2014,
+                    "reported_cases": "There was this guy who took my chips at McD, so I went into a kind of a verbal fight with him and that's when I decided that I'm gonna be a lawyer, I can defend verbally.",
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "approved_at": "now",
+            "email": "lawyer3@lawyer3.com",
+            "role": "\\Canlaw\\User\\Role::LAWYER",
+            "phone_number": "+60123456789",
+            "reviewed_by": 495041
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5922,
+            "profile": {
+                "satisfaction_rate": 53,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_SDVMD5@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3827,
+            "profile": {
+                "satisfaction_rate": 85,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_170CZU@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8154,
+            "profile": {
+                "satisfaction_rate": 84,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_TU2DVM@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2888,
+            "profile": {
+                "satisfaction_rate": 74,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_HIDHQ1@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2776,
+            "profile": {
+                "satisfaction_rate": 13,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_QK8G14@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3838,
+            "profile": {
+                "satisfaction_rate": 8,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_5V6U7J@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4023,
+            "profile": {
+                "satisfaction_rate": 17,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_8HXCWX@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6088,
+            "profile": {
+                "satisfaction_rate": 43,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_AGH58T@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3109,
+            "profile": {
+                "satisfaction_rate": 59,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_AYOCZT@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8775,
+            "profile": {
+                "satisfaction_rate": 14,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_BA1ACD@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6361,
+            "profile": {
+                "satisfaction_rate": 2,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_AU3RGI@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9919,
+            "profile": {
+                "satisfaction_rate": 70,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_SU1U3F@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9989,
+            "profile": {
+                "satisfaction_rate": 94,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_XX7LM3@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 664,
+            "profile": {
+                "satisfaction_rate": 39,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_9MQWIF@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1736,
+            "profile": {
+                "satisfaction_rate": 81,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_BX8IZA@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5417,
+            "profile": {
+                "satisfaction_rate": 24,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_5QFJNA@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5210,
+            "profile": {
+                "satisfaction_rate": 3,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_54HE2X@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5092,
+            "profile": {
+                "satisfaction_rate": 89,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_WBJ9YU@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 907,
+            "profile": {
+                "satisfaction_rate": 43,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_6APKJD@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4294,
+            "profile": {
+                "satisfaction_rate": 31,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_PGATSM@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8954,
+            "profile": {
+                "satisfaction_rate": 90,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_MGSZ3Y@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2350,
+            "profile": {
+                "satisfaction_rate": 1,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_GY7HUV@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4662,
+            "profile": {
+                "satisfaction_rate": 85,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_NRZVJ1@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2329,
+            "profile": {
+                "satisfaction_rate": 100,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_04VZRG@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3216,
+            "profile": {
+                "satisfaction_rate": 61,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_5TKAXN@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6306,
+            "profile": {
+                "satisfaction_rate": 35,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_3TAZXC@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1579,
+            "profile": {
+                "satisfaction_rate": 28,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_JYSF13@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3818,
+            "profile": {
+                "satisfaction_rate": 89,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_G8WSQ7@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9231,
+            "profile": {
+                "satisfaction_rate": 64,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_VG8PAB@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1787,
+            "profile": {
+                "satisfaction_rate": 64,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_5WAQQJ@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2217,
+            "profile": {
+                "satisfaction_rate": 76,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_BQE7IS@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 977,
+            "profile": {
+                "satisfaction_rate": 44,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_7SC1QH@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9397,
+            "profile": {
+                "satisfaction_rate": 72,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_MUIHSX@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8326,
+            "profile": {
+                "satisfaction_rate": 36,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_QNQZUJ@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7773,
+            "profile": {
+                "satisfaction_rate": 66,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_XLJH6F@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5853,
+            "profile": {
+                "satisfaction_rate": 75,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_NKZ7PU@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5281,
+            "profile": {
+                "satisfaction_rate": 43,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ZZB61W@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9439,
+            "profile": {
+                "satisfaction_rate": 57,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_CXXUU0@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5764,
+            "profile": {
+                "satisfaction_rate": 92,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_KF7S7X@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8320,
+            "profile": {
+                "satisfaction_rate": 50,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_88MAXL@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 386,
+            "profile": {
+                "satisfaction_rate": 46,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_SA147I@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2430,
+            "profile": {
+                "satisfaction_rate": 70,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_8EBI6E@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7080,
+            "profile": {
+                "satisfaction_rate": 24,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ZXJWRM@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1044,
+            "profile": {
+                "satisfaction_rate": 61,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_7A0Z5Z@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3926,
+            "profile": {
+                "satisfaction_rate": 27,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_TYRCY6@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4833,
+            "profile": {
+                "satisfaction_rate": 74,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_FNQ28P@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6446,
+            "profile": {
+                "satisfaction_rate": 12,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_CDFTKA@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1086,
+            "profile": {
+                "satisfaction_rate": 59,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_BOPJF4@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 1622,
+            "profile": {
+                "satisfaction_rate": 23,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_QO5KRJ@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4730,
+            "profile": {
+                "satisfaction_rate": 15,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_UH4U0C@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4364,
+            "profile": {
+                "satisfaction_rate": 70,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_N8PT3F@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2301,
+            "profile": {
+                "satisfaction_rate": 36,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_9JLT36@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9335,
+            "profile": {
+                "satisfaction_rate": 61,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_UNOL8U@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5591,
+            "profile": {
+                "satisfaction_rate": 95,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ENHBFR@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4793,
+            "profile": {
+                "satisfaction_rate": 17,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_DLH0ZQ@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 773,
+            "profile": {
+                "satisfaction_rate": 49,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_3WA8Q9@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6863,
+            "profile": {
+                "satisfaction_rate": 32,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_BVBOPH@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4884,
+            "profile": {
+                "satisfaction_rate": 97,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_F4ZMH0@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2774,
+            "profile": {
+                "satisfaction_rate": 35,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_6VN7JI@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4535,
+            "profile": {
+                "satisfaction_rate": 93,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_TRCPCT@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7727,
+            "profile": {
+                "satisfaction_rate": 52,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_N4AFZL@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7056,
+            "profile": {
+                "satisfaction_rate": 72,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_LGK3WO@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8264,
+            "profile": {
+                "satisfaction_rate": 24,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_9RQILL@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5002,
+            "profile": {
+                "satisfaction_rate": 93,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_Y04RJP@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4368,
+            "profile": {
+                "satisfaction_rate": 45,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_FNZEIW@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3668,
+            "profile": {
+                "satisfaction_rate": 24,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_YA4NJK@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3212,
+            "profile": {
+                "satisfaction_rate": 0,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_G4KW8L@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 857,
+            "profile": {
+                "satisfaction_rate": 76,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_UXDGMT@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5009,
+            "profile": {
+                "satisfaction_rate": 76,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_1OFRH0@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3711,
+            "profile": {
+                "satisfaction_rate": 97,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_CTJSYH@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 895,
+            "profile": {
+                "satisfaction_rate": 53,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_6316PV@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9815,
+            "profile": {
+                "satisfaction_rate": 96,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ZRR4MU@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7507,
+            "profile": {
+                "satisfaction_rate": 35,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_KNR3RH@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 5177,
+            "profile": {
+                "satisfaction_rate": 35,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_1FYW5U@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 6207,
+            "profile": {
+                "satisfaction_rate": 57,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_4U5ZA7@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 2935,
+            "profile": {
+                "satisfaction_rate": 58,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_WF4XG1@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8034,
+            "profile": {
+                "satisfaction_rate": 12,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_CHKMV0@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9814,
+            "profile": {
+                "satisfaction_rate": 64,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_82ALXA@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9671,
+            "profile": {
+                "satisfaction_rate": 94,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_VI1MGW@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9358,
+            "profile": {
+                "satisfaction_rate": 38,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_P0S6VM@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4029,
+            "profile": {
+                "satisfaction_rate": 30,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_30SWMA@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9973,
+            "profile": {
+                "satisfaction_rate": 33,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ABMG19@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 7045,
+            "profile": {
+                "satisfaction_rate": 19,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ER631T@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 514,
+            "profile": {
+                "satisfaction_rate": 54,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_ISP4OA@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 3565,
+            "profile": {
+                "satisfaction_rate": 95,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_VARV9I@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9338,
+            "profile": {
+                "satisfaction_rate": 92,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_C5CFPS@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8631,
+            "profile": {
+                "satisfaction_rate": 69,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_S617JX@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 4375,
+            "profile": {
+                "satisfaction_rate": 26,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_UX1778@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 9178,
+            "profile": {
+                "satisfaction_rate": 64,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_75S2BC@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        },
+        {
+            "phone_number": "+60123456789",
+            "id": 8583,
+            "profile": {
+                "satisfaction_rate": 96,
+                "firm": {
+                    "description": "Potato heaven, indulge in all potato goodies while we discuss about your case.",
+                    "address": {
+                        "lat": 22.22,
+                        "lng": 22.11,
+                        "address": "1 chip, potato street, frying pan district, Kitchen"
+                    },
+                    "opening_hours": "9am - 6 pm, Mon - Fri"
+                },
+                "personal": {
+                    "general": "I love eating fried chips",
+                    "photo": "http://lorempixel.com/400/400/people",
+                    "features_publications": "Nothing, I didn't write a thing, I love eating potato, that's why.",
+                    "reported_cases": "I got hit by lightning and survived.",
+                    "started_practicing_in": 2014,
+                    "languages": "English, Malay, Chinese, French, Japanese, Arabic, Esperanto",
+                    "qualifications": "Studied languages but prefers to do law and eats potato"
+                }
+            },
+            "password": "lawyer3",
+            "email": "lawyer_QULN65@lawyer.com",
+            "reviewed_by": 495041,
+            "approved_at": "now",
+            "role": "\\Canlaw\\User\\Role::LAWYER"
+        }
+    ]
+}
